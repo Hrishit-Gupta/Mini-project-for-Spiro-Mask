@@ -14,7 +14,7 @@ Question 2 : To filter out higher frequencies
 Answer : For this ,  I downloaded a free software named "Audacity" . Through which I first uploaded my original audio file and then simply applied the "Low pass Filter" , which essentially acts as threshold frequency such that it removes frequencies which are above the threshold frequency which is preset by the user . It only passes the frequency which are below threshold frequency and that is why it is called a low pass filter. For this mini project  I saved 2 files after applying this at 600Hz and 700Hz as threshold frequency. I have also attached all these files as well in google form.
 <br>
 
-Question 3 In what frequency range is the breathing information present?
+Question 3 In what frequency range is the breathing information is present?
 <br>
 Answer : I tried to analyze this problem by various methods. I plot 3 graphs of frequency analysis in audacity software itself. First graph is of original recording, Second and third graph are after applying low pass filter at 600Hz and 700Hz respectively. I found out graphs for 600hz and 700hz do not have a significant difference , which I think it could mean that breathing frequency could lie upto 600-700 hz. Also one interesting observation I found out that generally frequency is lower while inhaling than frequency while exhaling . I have attached all 3 graphs also.
 ![frequency analsis at 600Hz](https://github.com/Hrishit-Gupta/Mini-project-for-Spiro-Mask/assets/162542866/58bfbf2c-32f8-46ec-b0b0-607890dfb331)
