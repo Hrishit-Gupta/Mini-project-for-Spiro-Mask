@@ -20,9 +20,15 @@ Answer : I tried to analyze this problem by various methods. I plot 3 graphs of 
 ![frequency analsis of original audio](https://github.com/Hrishit-Gupta/Mini-project-for-Spiro-Mask/assets/162542866/a796624a-cdea-4a1c-a927-5f2913fbf750)
 Frequency analsis of original audio 
 <br>
+<br>
+<br>
+<br>
 
 ![frequency analsis at 700Hz](https://github.com/Hrishit-Gupta/Mini-project-for-Spiro-Mask/assets/162542866/8787bd1c-9c0b-447b-a46b-59447ee0afd2)
 Frequency analsis at 700Hz low pass filter
+<br>
+<br>
+<br>
 <br>
 
 ![frequency analsis at 600Hz](https://github.com/Hrishit-Gupta/Mini-project-for-Spiro-Mask/assets/162542866/90151c76-63c8-4a56-a0ac-8387453c4eeb)
